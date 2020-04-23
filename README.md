@@ -92,7 +92,7 @@ This will give you the opportunity to connect the device to for example Chrome a
 - When you close a Live Testing session the VUSB session is also closed.
 
 ## FAQ
-### I am getting a "malicious software" error when trying to start VUSB GUI on Mac
+### I am getting a "cannot be opened because it is from an unidentified developer." error when trying to start VUSB GUI on Mac
 Since this is open source software, we don't have certificates. To fix, 
 simply go to Security & Privacy and click "Open Anyway".
 [Also shows the workaround](https://github.com/wswebcreation/saucelabs-vusb-gui/issues/1).
